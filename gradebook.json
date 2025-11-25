@@ -1,0 +1,199 @@
+{
+    "AU003": {
+        "name": "English 1",
+        "credits": 3,
+        "semester": 1,
+        "score": 71
+    },
+    "MA101": {
+        "name": "Calculus I",
+        "credits": 4,
+        "semester": 1,
+        "score": 85
+    },
+    "CS102": {
+        "name": "Programming Basics",
+        "credits": 3,
+        "semester": 1,
+        "score": 92
+    },
+    "PH103": {
+        "name": "Physics I",
+        "credits": 4,
+        "semester": 1,
+        "score": 76
+    },
+    "EN204": {
+        "name": "English II",
+        "credits": 3,
+        "semester": 1,
+        "score": 67
+    },
+    "AU005": {
+        "name": "Intro to IT",
+        "credits": 2,
+        "semester": 1,
+        "score": 80
+    },
+    "AU008": {
+        "name": "SDG",
+        "credits": 1,
+        "semester": 1,
+        "score": 81
+    },
+    "AU010": {
+        "name": "Liberal Arts I",
+        "credits": 2,
+        "semester": 1,
+        "score": 70
+    },
+
+    "EC201": {
+        "name": "Microeconomics",
+        "credits": 3,
+        "semester": 2,
+        "score": 88
+    },
+    "ST202": {
+        "name": "Statistics",
+        "credits": 3,
+        "semester": 2,
+        "score": 81
+    },
+    "MA203": {
+        "name": "Calculus II",
+        "credits": 4,
+        "semester": 2,
+        "score": 90
+    },
+    "CS205": {
+        "name": "Object-Oriented Programming",
+        "credits": 3,
+        "semester": 2,
+        "score": 86
+    },
+    "PH206": {
+        "name": "Physics II Lab",
+        "credits": 1,
+        "semester": 2,
+        "score": 93
+    },
+    "GE207": {
+        "name": "Critical Thinking",
+        "credits": 2,
+        "semester": 2,
+        "score": 75
+    },
+    "AU011": {
+        "name": "Liberal Arts II",
+        "credits": 2,
+        "semester": 2,
+        "score": 83
+    },
+
+    "CS301": {
+        "name": "Data Structures",
+        "credits": 4,
+        "semester": 3,
+        "score": 94
+    },
+    "PH302": {
+        "name": "Physics II",
+        "credits": 3,
+        "semester": 3,
+        "score": 78
+    },
+    "MA303": {
+        "name": "Linear Algebra",
+        "credits": 3,
+        "semester": 3,
+        "score": 89
+    },
+    "CS304": {
+        "name": "Computer Architecture",
+        "credits": 3,
+        "semester": 3,
+        "score": 82
+    },
+    "BUS305": {
+        "name": "Principles of Management",
+        "credits": 3,
+        "semester": 3,
+        "score": 74
+    },
+
+    "CS401": {
+        "name": "Algorithms",
+        "credits": 4,
+        "semester": 4,
+        "score": 91
+    },
+    "CS402": {
+        "name": "Operating Systems",
+        "credits": 4,
+        "semester": 4,
+        "score": 87
+    },
+    "MA404": {
+        "name": "Probability Theory",
+        "credits": 3,
+        "semester": 4,
+        "score": 79
+    },
+    "BUS405": {
+        "name": "Marketing Fundamentals",
+        "credits": 3,
+        "semester": 4,
+        "score": 84
+    },
+    "AU012": {
+        "name": "Communication Skills",
+        "credits": 2,
+        "semester": 4,
+        "score": 90
+    },
+
+    "CS501": {
+        "name": "Machine Learning",
+        "credits": 4,
+        "semester": 5,
+        "score": 95
+    },
+    "CS502": {
+        "name": "Database Systems",
+        "credits": 4,
+        "semester": 5,
+        "score": 88
+    },
+    "BUS503": {
+        "name": "Entrepreneurship",
+        "credits": 3,
+        "semester": 5,
+        "score": 77
+    },
+    "GE504": {
+        "name": "World History",
+        "credits": 2,
+        "semester": 5,
+        "score": 72
+    },
+
+    "CS601": {
+        "name": "Software Engineering Project",
+        "credits": 4,
+        "semester": 6,
+        "score": 96
+    },
+    "CS602": {
+        "name": "Computer Networks",
+        "credits": 4,
+        "semester": 6,
+        "score": 89
+    },
+    "BUS603": {
+        "name": "International Business",
+        "credits": 3,
+        "semester": 6,
+        "score": 85
+    }
+}
